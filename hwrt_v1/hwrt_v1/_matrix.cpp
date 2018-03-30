@@ -1,5 +1,8 @@
 #include "_matrix.h"
 
+
+
+
 //矩阵类方法
 //初始化
 _Matrix::_Matrix(int mm,int nn)
